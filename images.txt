@@ -8,5 +8,6 @@ ghcr.io/wy580477/musicn-container:latest
 docker.io/linuxserver/jackett:latest
 linuxserver/heimdall:latest
 revenz/fenrus
+ich777/microsoft:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
